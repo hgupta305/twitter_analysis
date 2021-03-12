@@ -16,7 +16,7 @@ We use Python version 3.7.6 and Spark version 2.4.7. We should be cautious on th
 <b> pyspark: </b>preprocess the twitter data (Python's Spark library) <br>
 <b> textblob:</b> apply sentiment analysis on the twitter text data <br>
 
-## Instructions
+## Important Instructions
 First, run the <b>Part 1:</b> <i>twitter_connection.py</i> and let it continue running. <br>
 Then, run the <b>Part 2:</b> <i>sentiment_analysis.py</i> from a different IDE. 
 
